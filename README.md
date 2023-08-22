@@ -2,7 +2,7 @@
 
 Submitted by: **SALUD AVILA**
 
-**COLORWAY** is an app that... [TODO] 
+**COLORWAY** is an app that... [The app is able to change background color upon the command of the UIBUTTON ] 
 
 Time spent: **4** hours spent in total
 
