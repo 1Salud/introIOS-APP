@@ -21,12 +21,25 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+GIFY(https://giphy.com)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Instagram
+•    Change of colors from dark mode to light mode 
+•    Uploading pictures 
+•    Comment on pictures 
+Snap Chat
+•    AI Avatar 
+•    Post short clip videos temporary 
+•    Edit pics 
+WhatsApp
+•    Send messages
+•    Make calls 
+•    Delete messages 
 
 ## Notes
 
