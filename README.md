@@ -28,18 +28,12 @@ GIFY(https://giphy.com)
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-Instagram
-•    Change of colors from dark mode to light mode 
-•    Uploading pictures 
-•    Comment on pictures 
-Snap Chat
-•    AI Avatar 
-•    Post short clip videos temporary 
-•    Edit pics 
-WhatsApp
-•    Send messages
-•    Make calls 
-•    Delete messages 
+Instagram has 3 amazing features which are changeing background colors from dark mode to light mode,uploading pictures, and leaving Comments on pictures. 
+Snap Chat has 3 amazing features which are AI Avatar, post short clip videos temporary, and Edit pics. 
+WhatsApp has 3 amazing features which are sending messages, Making calls, and deleteing messages.
+A app I would like to build will have to be a app that can help small business grow or start in the right path. I would like to implement features like how to control profits and revenue. Another feature that can also help is assisting on how to manage and expand the businesses. The app can direct people in a better start by also getting educated through the app on how get permits for jobsites and locating places that can benefit the business in any way.
+
+
 
 ## Notes
 
